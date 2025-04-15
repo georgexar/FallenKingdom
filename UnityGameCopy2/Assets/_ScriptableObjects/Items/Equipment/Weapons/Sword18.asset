@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52ff37d7ef24b474880b196def0cd288, type: 3}
+  m_Name: Sword18
+  m_EditorClassIdentifier: 
+  GameObject: {fileID: 1855137969317316, guid: 8fd0d5f054eabd84a835357d1db51e19, type: 3}
+  itemID: 6
+  itemName: Weapon
+  icon: {fileID: 21300000, guid: 08f42805ee6ad5a4192433ade9bd28cf, type: 3}
+  type: 1
+  ItemRarity: 2
+  isStackable: 0
+  damage: 40
+  attackSpeed: 0
