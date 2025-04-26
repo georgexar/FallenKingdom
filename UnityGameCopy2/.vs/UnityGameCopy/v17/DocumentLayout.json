@@ -1,0 +1,283 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CodingProjects\\Unity\\UnityGameCopy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9244742E-50CF-F2FC-4076-6526968F03B4}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGameCopy\\assets\\_bscripts\\playerscripts\\spellmanagers\\spelltriggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9244742E-50CF-F2FC-4076-6526968F03B4}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\playerscripts\\spellmanagers\\spelltriggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9244742E-50CF-F2FC-4076-6526968F03B4}|Assembly-CSharp.csproj|c:\\codingprojects\\unity\\unitygamecopy\\assets\\_bscripts\\enemies\\chaseplayer\\enemychase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9244742E-50CF-F2FC-4076-6526968F03B4}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\enemies\\chaseplayer\\enemychase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9244742E-50CF-F2FC-4076-6526968F03B4}|Assembly-CSharp.csproj|c:\\codingprojects\\unity\\unitygamecopy\\assets\\_bscripts\\weaponscript\\dealdamagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9244742E-50CF-F2FC-4076-6526968F03B4}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\weaponscript\\dealdamagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9244742E-50CF-F2FC-4076-6526968F03B4}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGameCopy\\assets\\_bscripts\\managers\\statesmanager\\statemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9244742E-50CF-F2FC-4076-6526968F03B4}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\managers\\statesmanager\\statemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9244742E-50CF-F2FC-4076-6526968F03B4}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGameCopy\\assets\\_bscripts\\playerscripts\\attacks\\attacksmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9244742E-50CF-F2FC-4076-6526968F03B4}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\playerscripts\\attacks\\attacksmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9244742E-50CF-F2FC-4076-6526968F03B4}|Assembly-CSharp.csproj|c:\\codingprojects\\unity\\unitygamecopy\\assets\\_bscripts\\playerscripts\\quickslotmanager\\quickslottrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9244742E-50CF-F2FC-4076-6526968F03B4}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\playerscripts\\quickslotmanager\\quickslottrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9244742E-50CF-F2FC-4076-6526968F03B4}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGameCopy\\assets\\_bscripts\\playerscripts\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9244742E-50CF-F2FC-4076-6526968F03B4}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\playerscripts\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9244742E-50CF-F2FC-4076-6526968F03B4}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGameCopy\\assets\\_bscripts\\uiscripts\\playerui\\spellsmanager\\spellshidemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9244742E-50CF-F2FC-4076-6526968F03B4}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\uiscripts\\playerui\\spellsmanager\\spellshidemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9244742E-50CF-F2FC-4076-6526968F03B4}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGameCopy\\assets\\_bscripts\\uiscripts\\playerui\\spellsmanager\\spellsbuttonsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9244742E-50CF-F2FC-4076-6526968F03B4}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\uiscripts\\playerui\\spellsmanager\\spellsbuttonsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9244742E-50CF-F2FC-4076-6526968F03B4}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGameCopy\\assets\\_bscripts\\uiscripts\\inventory\\quickslots\\buttontxtinslots.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9244742E-50CF-F2FC-4076-6526968F03B4}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\uiscripts\\inventory\\quickslots\\buttontxtinslots.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9244742E-50CF-F2FC-4076-6526968F03B4}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGameCopy\\assets\\_bscripts\\managers\\gamemanager\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9244742E-50CF-F2FC-4076-6526968F03B4}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\managers\\gamemanager\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9244742E-50CF-F2FC-4076-6526968F03B4}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGameCopy\\assets\\_bscripts\\saveloadsystem\\saveloadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9244742E-50CF-F2FC-4076-6526968F03B4}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\saveloadsystem\\saveloadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9244742E-50CF-F2FC-4076-6526968F03B4}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGameCopy\\assets\\_bscripts\\managers\\cameramanager\\cameramanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9244742E-50CF-F2FC-4076-6526968F03B4}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\managers\\cameramanager\\cameramanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9244742E-50CF-F2FC-4076-6526968F03B4}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGameCopy\\assets\\_bscripts\\interactsystem\\interactableobjects\\npcs\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9244742E-50CF-F2FC-4076-6526968F03B4}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\interactsystem\\interactableobjects\\npcs\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9244742E-50CF-F2FC-4076-6526968F03B4}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGameCopy\\assets\\_bscripts\\saveloadsystem\\savegamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9244742E-50CF-F2FC-4076-6526968F03B4}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\saveloadsystem\\savegamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9244742E-50CF-F2FC-4076-6526968F03B4}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGameCopy\\assets\\_bscripts\\uiscripts\\enemyhealthbar\\enemyhealthbarmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9244742E-50CF-F2FC-4076-6526968F03B4}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\uiscripts\\enemyhealthbar\\enemyhealthbarmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DealDamageManager.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGameCopy\\Assets\\_bScripts\\WeaponScript\\DealDamageManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\WeaponScript\\DealDamageManager.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGameCopy\\Assets\\_bScripts\\WeaponScript\\DealDamageManager.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\WeaponScript\\DealDamageManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T23:59:18.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnemyChase.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGameCopy\\Assets\\_bScripts\\Enemies\\ChasePlayer\\EnemyChase.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\Enemies\\ChasePlayer\\EnemyChase.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGameCopy\\Assets\\_bScripts\\Enemies\\ChasePlayer\\EnemyChase.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\Enemies\\ChasePlayer\\EnemyChase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T23:58:02.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QuickSlotTrigger.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGameCopy\\Assets\\_bScripts\\PlayerScripts\\QuickSlotManager\\QuickSlotTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\PlayerScripts\\QuickSlotManager\\QuickSlotTrigger.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGameCopy\\Assets\\_bScripts\\PlayerScripts\\QuickSlotManager\\QuickSlotTrigger.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\PlayerScripts\\QuickSlotManager\\QuickSlotTrigger.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T23:45:44.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AttacksManager.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGameCopy\\Assets\\_bScripts\\PlayerScripts\\Attacks\\AttacksManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\PlayerScripts\\Attacks\\AttacksManager.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGameCopy\\Assets\\_bScripts\\PlayerScripts\\Attacks\\AttacksManager.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\PlayerScripts\\Attacks\\AttacksManager.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAgwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T22:36:09.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StateManager.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGameCopy\\Assets\\_bScripts\\Managers\\StatesManager\\StateManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\Managers\\StatesManager\\StateManager.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGameCopy\\Assets\\_bScripts\\Managers\\StatesManager\\StateManager.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\Managers\\StatesManager\\StateManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T22:35:10.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerManager.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGameCopy\\Assets\\_bScripts\\PlayerScripts\\PlayerManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\PlayerScripts\\PlayerManager.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGameCopy\\Assets\\_bScripts\\PlayerScripts\\PlayerManager.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\PlayerScripts\\PlayerManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T19:12:05.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpellTriggerManager.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGameCopy\\Assets\\_bScripts\\PlayerScripts\\SpellManagers\\SpellTriggerManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\PlayerScripts\\SpellManagers\\SpellTriggerManager.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGameCopy\\Assets\\_bScripts\\PlayerScripts\\SpellManagers\\SpellTriggerManager.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\PlayerScripts\\SpellManagers\\SpellTriggerManager.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAswJsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T18:43:45.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SpellsHideManager.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGameCopy\\Assets\\_bScripts\\UIscripts\\PlayerUI\\SpellsManager\\SpellsHideManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\UIscripts\\PlayerUI\\SpellsManager\\SpellsHideManager.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGameCopy\\Assets\\_bScripts\\UIscripts\\PlayerUI\\SpellsManager\\SpellsHideManager.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\UIscripts\\PlayerUI\\SpellsManager\\SpellsHideManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T18:21:58.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ButtonTxtInSlots.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGameCopy\\Assets\\_bScripts\\UIscripts\\Inventory\\QuickSlots\\ButtonTxtInSlots.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\UIscripts\\Inventory\\QuickSlots\\ButtonTxtInSlots.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGameCopy\\Assets\\_bScripts\\UIscripts\\Inventory\\QuickSlots\\ButtonTxtInSlots.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\UIscripts\\Inventory\\QuickSlots\\ButtonTxtInSlots.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T17:05:38.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InputManager.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGameCopy\\Assets\\_bScripts\\Managers\\GameManager\\InputManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\Managers\\GameManager\\InputManager.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGameCopy\\Assets\\_bScripts\\Managers\\GameManager\\InputManager.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\Managers\\GameManager\\InputManager.cs",
+              "ViewState": "AgIAAHIBAAAAAAAAAAAQwI4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T17:03:42.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SpellsButtonsManager.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGameCopy\\Assets\\_bScripts\\UIscripts\\PlayerUI\\SpellsManager\\SpellsButtonsManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\UIscripts\\PlayerUI\\SpellsManager\\SpellsButtonsManager.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGameCopy\\Assets\\_bScripts\\UIscripts\\PlayerUI\\SpellsManager\\SpellsButtonsManager.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\UIscripts\\PlayerUI\\SpellsManager\\SpellsButtonsManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T17:01:36.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SaveGameManager.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGameCopy\\Assets\\_bScripts\\SaveLoadSystem\\SaveGameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\SaveLoadSystem\\SaveGameManager.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGameCopy\\Assets\\_bScripts\\SaveLoadSystem\\SaveGameManager.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\SaveLoadSystem\\SaveGameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T17:44:41.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SaveLoadManager.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGameCopy\\Assets\\_bScripts\\SaveLoadSystem\\SaveLoadManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\SaveLoadSystem\\SaveLoadManager.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGameCopy\\Assets\\_bScripts\\SaveLoadSystem\\SaveLoadManager.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\SaveLoadSystem\\SaveLoadManager.cs",
+              "ViewState": "AgIAAHkBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T17:43:34.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EnemyHealthBarManager.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGameCopy\\Assets\\_bScripts\\UIscripts\\EnemyHealthbar\\EnemyHealthBarManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\UIscripts\\EnemyHealthbar\\EnemyHealthBarManager.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGameCopy\\Assets\\_bScripts\\UIscripts\\EnemyHealthbar\\EnemyHealthBarManager.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\UIscripts\\EnemyHealthbar\\EnemyHealthBarManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T17:40:45.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CameraManager.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGameCopy\\Assets\\_bScripts\\Managers\\CameraManager\\CameraManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\Managers\\CameraManager\\CameraManager.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGameCopy\\Assets\\_bScripts\\Managers\\CameraManager\\CameraManager.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\Managers\\CameraManager\\CameraManager.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAIBJwPwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T17:32:09.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Npc.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGameCopy\\Assets\\_bScripts\\InteractSystem\\InteractableObjects\\Npcs\\Npc.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\InteractSystem\\InteractableObjects\\Npcs\\Npc.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGameCopy\\Assets\\_bScripts\\InteractSystem\\InteractableObjects\\Npcs\\Npc.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\InteractSystem\\InteractableObjects\\Npcs\\Npc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T17:27:13.659Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
