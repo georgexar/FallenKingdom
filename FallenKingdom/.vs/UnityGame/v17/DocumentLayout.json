@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CodingProjects\\Unity\\UnityGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6287BEF0-7CF4-BF9F-814C-A803E2206BB8}|Assembly-CSharp.csproj|c:\\codingprojects\\unity\\unitygame\\assets\\_bscripts\\saveloadsystem\\saveloadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6287BEF0-7CF4-BF9F-814C-A803E2206BB8}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\saveloadsystem\\saveloadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6287BEF0-7CF4-BF9F-814C-A803E2206BB8}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame\\assets\\_bscripts\\interactsystem\\interactableobjects\\npcs\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6287BEF0-7CF4-BF9F-814C-A803E2206BB8}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\interactsystem\\interactableobjects\\npcs\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6287BEF0-7CF4-BF9F-814C-A803E2206BB8}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame\\assets\\_bscripts\\saveloadsystem\\savegamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6287BEF0-7CF4-BF9F-814C-A803E2206BB8}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\saveloadsystem\\savegamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6287BEF0-7CF4-BF9F-814C-A803E2206BB8}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame\\assets\\_bscripts\\interactsystem\\iinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6287BEF0-7CF4-BF9F-814C-A803E2206BB8}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\interactsystem\\iinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SaveGameManager.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame\\Assets\\_bScripts\\SaveLoadSystem\\SaveGameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\SaveLoadSystem\\SaveGameManager.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame\\Assets\\_bScripts\\SaveLoadSystem\\SaveGameManager.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\SaveLoadSystem\\SaveGameManager.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwCYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T17:26:50.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IInteractable.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame\\Assets\\_bScripts\\InteractSystem\\IInteractable.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\InteractSystem\\IInteractable.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame\\Assets\\_bScripts\\InteractSystem\\IInteractable.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\InteractSystem\\IInteractable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T17:15:20.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SaveLoadManager.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame\\Assets\\_bScripts\\SaveLoadSystem\\SaveLoadManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\SaveLoadSystem\\SaveLoadManager.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame\\Assets\\_bScripts\\SaveLoadSystem\\SaveLoadManager.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\SaveLoadSystem\\SaveLoadManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALMBAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T16:59:35.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Npc.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame\\Assets\\_bScripts\\InteractSystem\\InteractableObjects\\Npcs\\Npc.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\InteractSystem\\InteractableObjects\\Npcs\\Npc.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame\\Assets\\_bScripts\\InteractSystem\\InteractableObjects\\Npcs\\Npc.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\InteractSystem\\InteractableObjects\\Npcs\\Npc.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAA/wJsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T23:47:48.603Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
