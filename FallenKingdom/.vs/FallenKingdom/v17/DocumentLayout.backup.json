@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CodingProjects\\Unity\\FallenKingdom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7E594B-9EEA-BEA3-CC54-A8F3624BE944}|Assembly-CSharp.csproj|c:\\codingprojects\\unity\\fallenkingdom\\assets\\_bscripts\\interactsystem\\interactableobjects\\npcs\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A7E594B-9EEA-BEA3-CC54-A8F3624BE944}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\interactsystem\\interactableobjects\\npcs\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7E594B-9EEA-BEA3-CC54-A8F3624BE944}|Assembly-CSharp.csproj|c:\\codingprojects\\unity\\fallenkingdom\\assets\\_bscripts\\playerscripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A7E594B-9EEA-BEA3-CC54-A8F3624BE944}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\playerscripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7E594B-9EEA-BEA3-CC54-A8F3624BE944}|Assembly-CSharp.csproj|c:\\codingprojects\\unity\\fallenkingdom\\assets\\_bscripts\\inventory\\scriptablescripts\\consumablesso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A7E594B-9EEA-BEA3-CC54-A8F3624BE944}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\inventory\\scriptablescripts\\consumablesso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7E594B-9EEA-BEA3-CC54-A8F3624BE944}|Assembly-CSharp.csproj|c:\\codingprojects\\unity\\fallenkingdom\\assets\\_bscripts\\managers\\cameramanager\\cameramanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A7E594B-9EEA-BEA3-CC54-A8F3624BE944}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\managers\\cameramanager\\cameramanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7E594B-9EEA-BEA3-CC54-A8F3624BE944}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\FallenKingdom\\assets\\_bscripts\\playerscripts\\statusmanager\\healthmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A7E594B-9EEA-BEA3-CC54-A8F3624BE944}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\playerscripts\\statusmanager\\healthmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7E594B-9EEA-BEA3-CC54-A8F3624BE944}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\FallenKingdom\\assets\\textmesh pro\\examples \u0026 extras\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A7E594B-9EEA-BEA3-CC54-A8F3624BE944}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\examples \u0026 extras\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7E594B-9EEA-BEA3-CC54-A8F3624BE944}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\FallenKingdom\\assets\\_bscripts\\playerscripts\\spellmanagers\\spelltriggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A7E594B-9EEA-BEA3-CC54-A8F3624BE944}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\playerscripts\\spellmanagers\\spelltriggermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7E594B-9EEA-BEA3-CC54-A8F3624BE944}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\FallenKingdom\\assets\\_bscripts\\playerscripts\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A7E594B-9EEA-BEA3-CC54-A8F3624BE944}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\playerscripts\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Npc.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\FallenKingdom\\Assets\\_bScripts\\InteractSystem\\InteractableObjects\\Npcs\\Npc.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\InteractSystem\\InteractableObjects\\Npcs\\Npc.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\FallenKingdom\\Assets\\_bScripts\\InteractSystem\\InteractableObjects\\Npcs\\Npc.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\InteractSystem\\InteractableObjects\\Npcs\\Npc.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAAwMUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T15:17:28.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\FallenKingdom\\Assets\\_bScripts\\PlayerScripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\PlayerScripts\\Player.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\FallenKingdom\\Assets\\_bScripts\\PlayerScripts\\Player.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\PlayerScripts\\Player.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T13:22:50.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsumablesSO.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\FallenKingdom\\Assets\\_bScripts\\Inventory\\ScriptableScripts\\ConsumablesSO.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\Inventory\\ScriptableScripts\\ConsumablesSO.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\FallenKingdom\\Assets\\_bScripts\\Inventory\\ScriptableScripts\\ConsumablesSO.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\Inventory\\ScriptableScripts\\ConsumablesSO.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T11:57:40.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HealthManager.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\FallenKingdom\\Assets\\_bScripts\\PlayerScripts\\StatusManager\\HealthManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\PlayerScripts\\StatusManager\\HealthManager.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\FallenKingdom\\Assets\\_bScripts\\PlayerScripts\\StatusManager\\HealthManager.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\PlayerScripts\\StatusManager\\HealthManager.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T17:17:37.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CameraManager.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\FallenKingdom\\Assets\\_bScripts\\Managers\\CameraManager\\CameraManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\Managers\\CameraManager\\CameraManager.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\FallenKingdom\\Assets\\_bScripts\\Managers\\CameraManager\\CameraManager.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\Managers\\CameraManager\\CameraManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T17:13:34.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\FallenKingdom\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\CameraController.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\FallenKingdom\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\CameraController.cs",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\CameraController.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T17:13:24.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SpellTriggerManager.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\FallenKingdom\\Assets\\_bScripts\\PlayerScripts\\SpellManagers\\SpellTriggerManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\PlayerScripts\\SpellManagers\\SpellTriggerManager.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\FallenKingdom\\Assets\\_bScripts\\PlayerScripts\\SpellManagers\\SpellTriggerManager.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\PlayerScripts\\SpellManagers\\SpellTriggerManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:57:30.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerManager.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\FallenKingdom\\Assets\\_bScripts\\PlayerScripts\\PlayerManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\PlayerScripts\\PlayerManager.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\FallenKingdom\\Assets\\_bScripts\\PlayerScripts\\PlayerManager.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\PlayerScripts\\PlayerManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T21:54:32.05Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
