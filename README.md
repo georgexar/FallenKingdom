@@ -51,8 +51,8 @@
 ## 🧪 How to Run Locally
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/georgexar/UnityGame.git
+   ```
+   https://github.com/georgexar/UnityGame.git
    ```
 
 2. Open the project in Unity (tested on **Unity 2021.3+**)  
