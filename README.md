@@ -41,6 +41,7 @@
 | Attack         | Left Mouse  |
 | Block          | Right Mouse |
 | Use Spell 1/2/3| Q / E / R   |
+| Use Quickslots | 1 / 2 / 3 / 4   |
 | Open Inventory | Tab         |
 | Pause          | Escape      |
 
