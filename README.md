@@ -1,7 +1,7 @@
 
 # 🏰 Fallen Kingdom – 3D Medieval RPG Adventure
 
-**Fallen Kingdom** is a third-person, 3D action RPG built in Unity, featuring real-time combat, spellcasting, character upgrades, and rich world exploration. Set in a medieval fantasy world, the player takes on the role of a lone warrior on a quest to overthrow a tyrant barbarian king.
+**Fallen Kingdom** is a third-person, 3D action RPG built in Unity, featuring real-time combat, spellcasting, and rich world exploration. Set in a medieval fantasy world, the player takes on the role of a lone warrior on a quest to overthrow a tyrant barbarian king.
 
 ---
 
@@ -64,7 +64,7 @@
 ## 👤 Author
 
 **Γεώργιος Χαρίτος**  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/george-haritos-8b686a30b/)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/george-charitos-8b686a30b/)  
 - 📧 georgexar2003@gmail.com
 
 > Developed as part of my final-year thesis for University Of Piraeus.
