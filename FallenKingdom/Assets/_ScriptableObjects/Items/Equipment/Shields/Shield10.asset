@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8ba7009fc2af8842876e781c601ab93, type: 3}
+  m_Name: Shield10
+  m_EditorClassIdentifier: 
+  GameObject: {fileID: 9016359471717977719, guid: df0175e999761124e8617be46b9b51c7, type: 3}
+  itemID: 12
+  itemName: Shield
+  icon: {fileID: 21300000, guid: 68373cf553f21ae4b92558ff02a62e46, type: 3}
+  type: 1
+  ItemRarity: 3
+  isStackable: 0
+  sustain: 15
+  damage: 0

@@ -1,0 +1,1308 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\uiscripts\\pausemenu\\pausemenumanagers\\pausemenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\uiscripts\\pausemenu\\pausemenumanagers\\pausemenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\enemies\\enemy1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\enemies\\enemy1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\uiscripts\\gamemenus\\difficultydialog\\startfromcheckpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\uiscripts\\gamemenus\\difficultydialog\\startfromcheckpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\enemies\\ienemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\enemies\\ienemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\weaponscript\\dealdamagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\weaponscript\\dealdamagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\playerscripts\\attacks\\attacksmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\playerscripts\\attacks\\attacksmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\uiscripts\\enemyhealthbar\\enemyhealthbarmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\uiscripts\\enemyhealthbar\\enemyhealthbarmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\uiscripts\\gamemenus\\difficultydialog\\difficultymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\uiscripts\\gamemenus\\difficultydialog\\difficultymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\playerscripts\\statusmanager\\healthmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\playerscripts\\statusmanager\\healthmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\enemies\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\enemies\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\enemies\\enemysoundfxmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\enemies\\enemysoundfxmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\interactsystem\\interactableobjects\\enviroment\\checkpoint\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\interactsystem\\interactableobjects\\enviroment\\checkpoint\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\managers\\gamemanager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\managers\\gamemanager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\uiscripts\\store\\storesoundfx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\uiscripts\\store\\storesoundfx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\uiscripts\\store\\storeitemsoundfx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\uiscripts\\store\\storeitemsoundfx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\uiscripts\\store\\storeopen\\storeopen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\uiscripts\\store\\storeopen\\storeopen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\uiscripts\\store\\storecanvasmanager\\storecanvasmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\uiscripts\\store\\storecanvasmanager\\storecanvasmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\uiscripts\\store\\storebuydialog\\storebuydialogmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\uiscripts\\store\\storebuydialog\\storebuydialogmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\uiscripts\\playerui\\statusbarsmanagers\\manabarmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\uiscripts\\playerui\\statusbarsmanagers\\manabarmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\uiscripts\\playerui\\statusbarsmanagers\\energybarmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\uiscripts\\playerui\\statusbarsmanagers\\energybarmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\uiscripts\\pausemenu\\pausemenusoundeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\uiscripts\\pausemenu\\pausemenusoundeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\uiscripts\\pausemenu\\pausemenuprefabmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\uiscripts\\pausemenu\\pausemenuprefabmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\uiscripts\\inventory\\inventoryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\uiscripts\\inventory\\inventoryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\uiscripts\\inventory\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\uiscripts\\inventory\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\uiscripts\\inventory\\inventorycanvasmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\uiscripts\\inventory\\inventorycanvasmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\uiscripts\\inventory\\quickslots\\quickslotininventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\uiscripts\\inventory\\quickslots\\quickslotininventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\uiscripts\\inventory\\quickslots\\quickslotequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\uiscripts\\inventory\\quickslots\\quickslotequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\uiscripts\\inventory\\quickslots\\quickslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\uiscripts\\inventory\\quickslots\\quickslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\uiscripts\\inventory\\quickslots\\deletequickslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\uiscripts\\inventory\\quickslots\\deletequickslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\uiscripts\\inventory\\quickslots\\buttontxtinslots.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\uiscripts\\inventory\\quickslots\\buttontxtinslots.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\uiscripts\\inventory\\dialogs\\deletedialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\uiscripts\\inventory\\dialogs\\deletedialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\uiscripts\\interactui\\interactuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\uiscripts\\interactui\\interactuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\uiscripts\\gamemenus\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\uiscripts\\gamemenus\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\uiscripts\\gamemenus\\rebindkeys\\rebinduiprefab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\uiscripts\\gamemenus\\rebindkeys\\rebinduiprefab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\uiscripts\\gamemenus\\controlpreferencesdialog\\controlmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\uiscripts\\gamemenus\\controlpreferencesdialog\\controlmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\uiscripts\\gamemenus\\audiodialog\\audiodialogmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\uiscripts\\gamemenus\\audiodialog\\audiodialogmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\uiscripts\\chatdialog\\chatdialogmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\uiscripts\\chatdialog\\chatdialogmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\saveloadsystem\\saveloadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\saveloadsystem\\saveloadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\saveloadsystem\\savegamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\saveloadsystem\\savegamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\saveloadsystem\\npcstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\saveloadsystem\\npcstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\saveloadsystem\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\saveloadsystem\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\enemies\\attack\\attacktrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\enemies\\attack\\attacktrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\enemies\\attack\\enemyattackmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\enemies\\attack\\enemyattackmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\enemies\\attack\\enemysworddealdamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\enemies\\attack\\enemysworddealdamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\enemies\\spawners\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\enemies\\spawners\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\enemies\\chaseplayer\\enemychase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\enemies\\chaseplayer\\enemychase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\managers\\audiomanager\\soundsfxmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\managers\\audiomanager\\soundsfxmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\managers\\cameramanager\\cameramanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\managers\\cameramanager\\cameramanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\interactsystem\\interactzone\\interactzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\interactsystem\\interactzone\\interactzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\interactsystem\\interactableobjects\\store\\storeinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\interactsystem\\interactableobjects\\store\\storeinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\interactsystem\\interactableobjects\\npcs\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\interactsystem\\interactableobjects\\npcs\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\interactsystem\\interactableobjects\\enviroment\\objects\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\interactsystem\\interactableobjects\\enviroment\\objects\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\interactsystem\\interactableobjects\\enviroment\\objects\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\interactsystem\\interactableobjects\\enviroment\\objects\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\interactsystem\\interactableobjects\\enviroment\\objects\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\interactsystem\\interactableobjects\\enviroment\\objects\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\interactsystem\\interactableobjects\\enviroment\\objects\\collectibles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\interactsystem\\interactableobjects\\enviroment\\objects\\collectibles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\interactsystem\\interactableobjects\\enviroment\\objects\\chest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\interactsystem\\interactableobjects\\enviroment\\objects\\chest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\interactsystem\\iinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\interactsystem\\iinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\inventory\\scriptablescripts\\weaponso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\inventory\\scriptablescripts\\weaponso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\inventory\\scriptablescripts\\shieldso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\inventory\\scriptablescripts\\shieldso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\inventory\\scriptablescripts\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\inventory\\scriptablescripts\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\inventory\\scriptablescripts\\consumablesso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\inventory\\scriptablescripts\\consumablesso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\inventory\\itemsoundfx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\inventory\\itemsoundfx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\inventory\\inventorysoundfx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\inventory\\inventorysoundfx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\inventory\\inventoryslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\inventory\\inventoryslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\inventory\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\inventory\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\managers\\statesmanager\\statemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\managers\\statesmanager\\statemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\managers\\gamemanager\\quickslotmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\managers\\gamemanager\\quickslotmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\managers\\gamemanager\\itemsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\managers\\gamemanager\\itemsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\managers\\scenemanagers\\gamescenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\managers\\scenemanagers\\gamescenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\playerscripts\\quickslotmanager\\quickslottrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\playerscripts\\quickslotmanager\\quickslottrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\playerscripts\\playersoundmanager\\playersoundfxmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\playerscripts\\playersoundmanager\\playersoundfxmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\playerscripts\\block\\blockmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\playerscripts\\block\\blockmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\playerscripts\\currencymanager\\currencyquantitymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\playerscripts\\currencymanager\\currencyquantitymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\playerscripts\\statusmanager\\manamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\playerscripts\\statusmanager\\manamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\playerscripts\\statusmanager\\energymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\playerscripts\\statusmanager\\energymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\playerscripts\\movement\\movementmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\playerscripts\\movement\\movementmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\playerscripts\\animations\\animationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\playerscripts\\animations\\animationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\playerscripts\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\playerscripts\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|C:\\CodingProjects\\Unity\\UnityGame - Copy\\assets\\_bscripts\\playerscripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B03FA8E-FB1A-1396-4A3F-8985AB46B829}|Assembly-CSharp.csproj|solutionrelative:assets\\_bscripts\\playerscripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\InteractSystem\\InteractableObjects\\Npcs\\NpcTalk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\_bScripts\\InteractSystem\\InteractableObjects\\Npcs\\NpcTalk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StartFromCheckpoint.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\UIscripts\\GameMenus\\DifficultyDialog\\StartFromCheckpoint.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\UIscripts\\GameMenus\\DifficultyDialog\\StartFromCheckpoint.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\UIscripts\\GameMenus\\DifficultyDialog\\StartFromCheckpoint.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\UIscripts\\GameMenus\\DifficultyDialog\\StartFromCheckpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T23:08:40.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEnemy.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\Enemies\\IEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\Enemies\\IEnemy.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\Enemies\\IEnemy.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\Enemies\\IEnemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T15:50:52.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DifficultyManager.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\UIscripts\\GameMenus\\DifficultyDialog\\DifficultyManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\UIscripts\\GameMenus\\DifficultyDialog\\DifficultyManager.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\UIscripts\\GameMenus\\DifficultyDialog\\DifficultyManager.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\UIscripts\\GameMenus\\DifficultyDialog\\DifficultyManager.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAIwHEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T16:39:14.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnemyHealthBarManager.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\UIscripts\\EnemyHealthbar\\EnemyHealthBarManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\UIscripts\\EnemyHealthbar\\EnemyHealthBarManager.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\UIscripts\\EnemyHealthbar\\EnemyHealthBarManager.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\UIscripts\\EnemyHealthbar\\EnemyHealthBarManager.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T16:34:15.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enemy1.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\Enemies\\Enemy1.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\Enemies\\Enemy1.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\Enemies\\Enemy1.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\Enemies\\Enemy1.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwB8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T15:52:11.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AttacksManager.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\PlayerScripts\\Attacks\\AttacksManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\PlayerScripts\\Attacks\\AttacksManager.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\PlayerScripts\\Attacks\\AttacksManager.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\PlayerScripts\\Attacks\\AttacksManager.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAA1wFkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T14:08:35.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DealDamageManager.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\WeaponScript\\DealDamageManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\WeaponScript\\DealDamageManager.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\WeaponScript\\DealDamageManager.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\WeaponScript\\DealDamageManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T16:03:02.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PauseMenuManager.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\UIscripts\\PauseMenu\\PauseMenuManagers\\PauseMenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\UIscripts\\PauseMenu\\PauseMenuManagers\\PauseMenuManager.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\UIscripts\\PauseMenu\\PauseMenuManagers\\PauseMenuManager.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\UIscripts\\PauseMenu\\PauseMenuManagers\\PauseMenuManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:00:01.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StoreItemSoundFx.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\UIscripts\\Store\\StoreItemSoundFx.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\UIscripts\\Store\\StoreItemSoundFx.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\UIscripts\\Store\\StoreItemSoundFx.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\UIscripts\\Store\\StoreItemSoundFx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:06:42.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EnemyMovement.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\Enemies\\EnemyMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\Enemies\\EnemyMovement.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\Enemies\\EnemyMovement.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\Enemies\\EnemyMovement.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowCsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:27:42.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EnemySoundFxManager.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\Enemies\\EnemySoundFxManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\Enemies\\EnemySoundFxManager.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\Enemies\\EnemySoundFxManager.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\Enemies\\EnemySoundFxManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T15:59:29.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HealthManager.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\PlayerScripts\\StatusManager\\HealthManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\PlayerScripts\\StatusManager\\HealthManager.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\PlayerScripts\\StatusManager\\HealthManager.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\PlayerScripts\\StatusManager\\HealthManager.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwEQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T20:49:49.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Checkpoint.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\InteractSystem\\InteractableObjects\\Enviroment\\Checkpoint\\Checkpoint.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\InteractSystem\\InteractableObjects\\Enviroment\\Checkpoint\\Checkpoint.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\InteractSystem\\InteractableObjects\\Enviroment\\Checkpoint\\Checkpoint.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\InteractSystem\\InteractableObjects\\Enviroment\\Checkpoint\\Checkpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T23:47:25.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\Managers\\GameManager\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\Managers\\GameManager\\GameManager.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\Managers\\GameManager\\GameManager.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\Managers\\GameManager\\GameManager.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAmwKsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T15:47:32.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StoreBuyDialogManager.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\UIscripts\\Store\\StoreBuyDialog\\StoreBuyDialogManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\UIscripts\\Store\\StoreBuyDialog\\StoreBuyDialogManager.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\UIscripts\\Store\\StoreBuyDialog\\StoreBuyDialogManager.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\UIscripts\\Store\\StoreBuyDialog\\StoreBuyDialogManager.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:04:13.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StoreOpen.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\UIscripts\\Store\\StoreOpen\\StoreOpen.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\UIscripts\\Store\\StoreOpen\\StoreOpen.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\UIscripts\\Store\\StoreOpen\\StoreOpen.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\UIscripts\\Store\\StoreOpen\\StoreOpen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T23:36:23.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StoreSoundFx.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\UIscripts\\Store\\StoreSoundFx.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\UIscripts\\Store\\StoreSoundFx.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\UIscripts\\Store\\StoreSoundFx.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\UIscripts\\Store\\StoreSoundFx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:06:44.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StoreCanvasManager.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\UIscripts\\Store\\StoreCanvasManager\\StoreCanvasManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\UIscripts\\Store\\StoreCanvasManager\\StoreCanvasManager.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\UIscripts\\Store\\StoreCanvasManager\\StoreCanvasManager.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\UIscripts\\Store\\StoreCanvasManager\\StoreCanvasManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T23:22:47.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PauseMenuSoundEffect.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\UIscripts\\PauseMenu\\PauseMenuSoundEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\UIscripts\\PauseMenu\\PauseMenuSoundEffect.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\UIscripts\\PauseMenu\\PauseMenuSoundEffect.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\UIscripts\\PauseMenu\\PauseMenuSoundEffect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:01:16.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EnergyBarManager.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\UIscripts\\PlayerUI\\StatusBarsManagers\\EnergyBarManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\UIscripts\\PlayerUI\\StatusBarsManagers\\EnergyBarManager.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\UIscripts\\PlayerUI\\StatusBarsManagers\\EnergyBarManager.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\UIscripts\\PlayerUI\\StatusBarsManagers\\EnergyBarManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:02:58.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ManaBarManager.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\UIscripts\\PlayerUI\\StatusBarsManagers\\ManaBarManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\UIscripts\\PlayerUI\\StatusBarsManagers\\ManaBarManager.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\UIscripts\\PlayerUI\\StatusBarsManagers\\ManaBarManager.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\UIscripts\\PlayerUI\\StatusBarsManagers\\ManaBarManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:03:58.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "InventoryUI.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\UIscripts\\Inventory\\InventoryUI.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\UIscripts\\Inventory\\InventoryUI.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\UIscripts\\Inventory\\InventoryUI.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\UIscripts\\Inventory\\InventoryUI.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAAAD4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T16:57:45.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "InventoryItem.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\UIscripts\\Inventory\\InventoryItem.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\UIscripts\\Inventory\\InventoryItem.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\UIscripts\\Inventory\\InventoryItem.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\UIscripts\\Inventory\\InventoryItem.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T16:56:53.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "QuickSlotInInventory.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\UIscripts\\Inventory\\QuickSlots\\QuickSlotInInventory.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\UIscripts\\Inventory\\QuickSlots\\QuickSlotInInventory.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\UIscripts\\Inventory\\QuickSlots\\QuickSlotInInventory.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\UIscripts\\Inventory\\QuickSlots\\QuickSlotInInventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T16:54:13.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "QuickSlotEquipment.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\UIscripts\\Inventory\\QuickSlots\\QuickSlotEquipment.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\UIscripts\\Inventory\\QuickSlots\\QuickSlotEquipment.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\UIscripts\\Inventory\\QuickSlots\\QuickSlotEquipment.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\UIscripts\\Inventory\\QuickSlots\\QuickSlotEquipment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T16:53:48.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PauseMenuPrefabManager.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\UIscripts\\PauseMenu\\PauseMenuPrefabManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\UIscripts\\PauseMenu\\PauseMenuPrefabManager.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\UIscripts\\PauseMenu\\PauseMenuPrefabManager.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\UIscripts\\PauseMenu\\PauseMenuPrefabManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwFIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T23:21:28.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "QuickSlot.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\UIscripts\\Inventory\\QuickSlots\\QuickSlot.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\UIscripts\\Inventory\\QuickSlots\\QuickSlot.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\UIscripts\\Inventory\\QuickSlots\\QuickSlot.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\UIscripts\\Inventory\\QuickSlots\\QuickSlot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T16:52:41.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DeleteQuickSlot.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\UIscripts\\Inventory\\QuickSlots\\DeleteQuickSlot.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\UIscripts\\Inventory\\QuickSlots\\DeleteQuickSlot.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\UIscripts\\Inventory\\QuickSlots\\DeleteQuickSlot.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\UIscripts\\Inventory\\QuickSlots\\DeleteQuickSlot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T16:51:30.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ButtonTxtInSlots.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\UIscripts\\Inventory\\QuickSlots\\ButtonTxtInSlots.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\UIscripts\\Inventory\\QuickSlots\\ButtonTxtInSlots.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\UIscripts\\Inventory\\QuickSlots\\ButtonTxtInSlots.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\UIscripts\\Inventory\\QuickSlots\\ButtonTxtInSlots.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T16:50:27.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DeleteDialog.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\UIscripts\\Inventory\\Dialogs\\DeleteDialog.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\UIscripts\\Inventory\\Dialogs\\DeleteDialog.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\UIscripts\\Inventory\\Dialogs\\DeleteDialog.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\UIscripts\\Inventory\\Dialogs\\DeleteDialog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T16:49:31.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RebindUIPrefab.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\UIscripts\\GameMenus\\RebindKeys\\RebindUIPrefab.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\UIscripts\\GameMenus\\RebindKeys\\RebindUIPrefab.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\UIscripts\\GameMenus\\RebindKeys\\RebindUIPrefab.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\UIscripts\\GameMenus\\RebindKeys\\RebindUIPrefab.cs",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T16:40:34.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "InventoryCanvasManager.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\UIscripts\\Inventory\\InventoryCanvasManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\UIscripts\\Inventory\\InventoryCanvasManager.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\UIscripts\\Inventory\\InventoryCanvasManager.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\UIscripts\\Inventory\\InventoryCanvasManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T23:16:09.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ControlManager.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\UIscripts\\GameMenus\\ControlPreferencesDialog\\ControlManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\UIscripts\\GameMenus\\ControlPreferencesDialog\\ControlManager.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\UIscripts\\GameMenus\\ControlPreferencesDialog\\ControlManager.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\UIscripts\\GameMenus\\ControlPreferencesDialog\\ControlManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T16:37:34.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "GameData.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\SaveLoadSystem\\GameData.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\SaveLoadSystem\\GameData.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\SaveLoadSystem\\GameData.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\SaveLoadSystem\\GameData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:36:45.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "NpcState.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\SaveLoadSystem\\NPCState.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\SaveLoadSystem\\NPCState.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\SaveLoadSystem\\NPCState.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\SaveLoadSystem\\NPCState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T19:57:03.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\UIscripts\\GameMenus\\MenuController.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\UIscripts\\GameMenus\\MenuController.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\UIscripts\\GameMenus\\MenuController.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\UIscripts\\GameMenus\\MenuController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T19:14:34.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "InteractUIManager.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\UIscripts\\InteractUI\\InteractUIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\UIscripts\\InteractUI\\InteractUIManager.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\UIscripts\\InteractUI\\InteractUIManager.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\UIscripts\\InteractUI\\InteractUIManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:31:09.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AttackTrigger.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\Enemies\\Attack\\AttackTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\Enemies\\Attack\\AttackTrigger.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\Enemies\\Attack\\AttackTrigger.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\Enemies\\Attack\\AttackTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T13:51:23.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "EnemyAttackManager.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\Enemies\\Attack\\EnemyAttackManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\Enemies\\Attack\\EnemyAttackManager.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\Enemies\\Attack\\EnemyAttackManager.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\Enemies\\Attack\\EnemyAttackManager.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T16:06:58.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SaveGameManager.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\SaveLoadSystem\\SaveGameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\SaveLoadSystem\\SaveGameManager.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\SaveLoadSystem\\SaveGameManager.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\SaveLoadSystem\\SaveGameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:32:20.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AudioDialogManager.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\UIscripts\\GameMenus\\AudioDialog\\AudioDialogManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\UIscripts\\GameMenus\\AudioDialog\\AudioDialogManager.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\UIscripts\\GameMenus\\AudioDialog\\AudioDialogManager.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\UIscripts\\GameMenus\\AudioDialog\\AudioDialogManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T23:53:07.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "EnemySwordDealDamage.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\Enemies\\Attack\\EnemySwordDealDamage.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\Enemies\\Attack\\EnemySwordDealDamage.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\Enemies\\Attack\\EnemySwordDealDamage.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\Enemies\\Attack\\EnemySwordDealDamage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T20:05:06.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SaveLoadManager.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\SaveLoadSystem\\SaveLoadManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\SaveLoadSystem\\SaveLoadManager.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\SaveLoadSystem\\SaveLoadManager.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\SaveLoadSystem\\SaveLoadManager.cs",
+              "ViewState": "AgIAAEABAAAAAAAAAAAUwB8BAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:32:16.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ChatDialogManager.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\UIscripts\\ChatDialog\\ChatDialogManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\UIscripts\\ChatDialog\\ChatDialogManager.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\UIscripts\\ChatDialog\\ChatDialogManager.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\UIscripts\\ChatDialog\\ChatDialogManager.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwEcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T19:35:16.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "EnemyChase.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\Enemies\\ChasePlayer\\EnemyChase.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\Enemies\\ChasePlayer\\EnemyChase.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\Enemies\\ChasePlayer\\EnemyChase.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\Enemies\\ChasePlayer\\EnemyChase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T19:54:53.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "InteractZone.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\InteractSystem\\InteractZone\\InteractZone.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\InteractSystem\\InteractZone\\InteractZone.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\InteractSystem\\InteractZone\\InteractZone.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\InteractSystem\\InteractZone\\InteractZone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T19:32:06.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "EnemySpawner.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\Enemies\\Spawners\\EnemySpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\Enemies\\Spawners\\EnemySpawner.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\Enemies\\Spawners\\EnemySpawner.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\Enemies\\Spawners\\EnemySpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T19:50:32.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "StoreInteract.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\InteractSystem\\InteractableObjects\\Store\\StoreInteract.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\InteractSystem\\InteractableObjects\\Store\\StoreInteract.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\InteractSystem\\InteractableObjects\\Store\\StoreInteract.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\InteractSystem\\InteractableObjects\\Store\\StoreInteract.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T15:42:03.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Equipment.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\InteractSystem\\InteractableObjects\\Enviroment\\Objects\\Equipment.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\InteractSystem\\InteractableObjects\\Enviroment\\Objects\\Equipment.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\InteractSystem\\InteractableObjects\\Enviroment\\Objects\\Equipment.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\InteractSystem\\InteractableObjects\\Enviroment\\Objects\\Equipment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T15:36:29.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Door.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\InteractSystem\\InteractableObjects\\Enviroment\\Objects\\Door.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\InteractSystem\\InteractableObjects\\Enviroment\\Objects\\Door.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\InteractSystem\\InteractableObjects\\Enviroment\\Objects\\Door.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\InteractSystem\\InteractableObjects\\Enviroment\\Objects\\Door.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T15:36:28.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Currency.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\InteractSystem\\InteractableObjects\\Enviroment\\Objects\\Currency.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\InteractSystem\\InteractableObjects\\Enviroment\\Objects\\Currency.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\InteractSystem\\InteractableObjects\\Enviroment\\Objects\\Currency.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\InteractSystem\\InteractableObjects\\Enviroment\\Objects\\Currency.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T15:35:03.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Chest.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\InteractSystem\\InteractableObjects\\Enviroment\\Objects\\Chest.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\InteractSystem\\InteractableObjects\\Enviroment\\Objects\\Chest.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\InteractSystem\\InteractableObjects\\Enviroment\\Objects\\Chest.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\InteractSystem\\InteractableObjects\\Enviroment\\Objects\\Chest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T15:34:22.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "IInteractable.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\InteractSystem\\IInteractable.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\InteractSystem\\IInteractable.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\InteractSystem\\IInteractable.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\InteractSystem\\IInteractable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T15:32:16.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "WeaponSO.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\Inventory\\ScriptableScripts\\WeaponSO.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\Inventory\\ScriptableScripts\\WeaponSO.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\Inventory\\ScriptableScripts\\WeaponSO.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\Inventory\\ScriptableScripts\\WeaponSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T15:20:01.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CameraManager.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\Managers\\CameraManager\\CameraManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\Managers\\CameraManager\\CameraManager.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\Managers\\CameraManager\\CameraManager.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\Managers\\CameraManager\\CameraManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T15:10:18.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "SoundsFxManager.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\Managers\\AudioManager\\SoundsFxManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\Managers\\AudioManager\\SoundsFxManager.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\Managers\\AudioManager\\SoundsFxManager.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\Managers\\AudioManager\\SoundsFxManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T14:51:48.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ShieldSO.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\Inventory\\ScriptableScripts\\ShieldSO.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\Inventory\\ScriptableScripts\\ShieldSO.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\Inventory\\ScriptableScripts\\ShieldSO.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\Inventory\\ScriptableScripts\\ShieldSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T15:20:02.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\Inventory\\ScriptableScripts\\Item.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\Inventory\\ScriptableScripts\\Item.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\Inventory\\ScriptableScripts\\Item.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\Inventory\\ScriptableScripts\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T15:20:00.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ConsumablesSO.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\Inventory\\ScriptableScripts\\ConsumablesSO.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\Inventory\\ScriptableScripts\\ConsumablesSO.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\Inventory\\ScriptableScripts\\ConsumablesSO.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\Inventory\\ScriptableScripts\\ConsumablesSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T15:19:58.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ItemSoundFx.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\Inventory\\ItemSoundFx.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\Inventory\\ItemSoundFx.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\Inventory\\ItemSoundFx.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\Inventory\\ItemSoundFx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T15:19:55.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Npc.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\InteractSystem\\InteractableObjects\\Npcs\\Npc.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\InteractSystem\\InteractableObjects\\Npcs\\Npc.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\InteractSystem\\InteractableObjects\\Npcs\\Npc.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\InteractSystem\\InteractableObjects\\Npcs\\Npc.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwIgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T00:08:28.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "InventorySoundFx.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\Inventory\\InventorySoundFx.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\Inventory\\InventorySoundFx.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\Inventory\\InventorySoundFx.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\Inventory\\InventorySoundFx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T15:19:52.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Collectibles.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\InteractSystem\\InteractableObjects\\Enviroment\\Objects\\Collectibles.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\InteractSystem\\InteractableObjects\\Enviroment\\Objects\\Collectibles.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\InteractSystem\\InteractableObjects\\Enviroment\\Objects\\Collectibles.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\InteractSystem\\InteractableObjects\\Enviroment\\Objects\\Collectibles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:31:32.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "InventorySlot.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\Inventory\\InventorySlot.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\Inventory\\InventorySlot.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\Inventory\\InventorySlot.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\Inventory\\InventorySlot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T15:17:11.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "QuickSlotManager.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\Managers\\GameManager\\QuickSlotManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\Managers\\GameManager\\QuickSlotManager.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\Managers\\GameManager\\QuickSlotManager.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\Managers\\GameManager\\QuickSlotManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T15:06:00.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "ItemsManager.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\Managers\\GameManager\\ItemsManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\Managers\\GameManager\\ItemsManager.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\Managers\\GameManager\\ItemsManager.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\Managers\\GameManager\\ItemsManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T15:02:38.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "GameSceneManager.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\Managers\\SceneManagers\\GameSceneManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\Managers\\SceneManagers\\GameSceneManager.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\Managers\\SceneManagers\\GameSceneManager.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\Managers\\SceneManagers\\GameSceneManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T14:48:25.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "QuickSlotTrigger.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\PlayerScripts\\QuickSlotManager\\QuickSlotTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\PlayerScripts\\QuickSlotManager\\QuickSlotTrigger.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\PlayerScripts\\QuickSlotManager\\QuickSlotTrigger.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\PlayerScripts\\QuickSlotManager\\QuickSlotTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T14:42:50.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "BlockManager.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\PlayerScripts\\Block\\BlockManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\PlayerScripts\\Block\\BlockManager.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\PlayerScripts\\Block\\BlockManager.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\PlayerScripts\\Block\\BlockManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T14:16:18.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "StateManager.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\Managers\\StatesManager\\StateManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\Managers\\StatesManager\\StateManager.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\Managers\\StatesManager\\StateManager.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\Managers\\StatesManager\\StateManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T18:34:34.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\Inventory\\Inventory.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\Inventory\\Inventory.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\Inventory\\Inventory.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\Inventory\\Inventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T17:54:09.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "ManaManager.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\PlayerScripts\\StatusManager\\ManaManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\PlayerScripts\\StatusManager\\ManaManager.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\PlayerScripts\\StatusManager\\ManaManager.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\PlayerScripts\\StatusManager\\ManaManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T14:28:49.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "EnergyManager.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\PlayerScripts\\StatusManager\\EnergyManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\PlayerScripts\\StatusManager\\EnergyManager.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\PlayerScripts\\StatusManager\\EnergyManager.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\PlayerScripts\\StatusManager\\EnergyManager.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwC0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T14:14:36.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "AnimationManager.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\PlayerScripts\\Animations\\AnimationManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\PlayerScripts\\Animations\\AnimationManager.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\PlayerScripts\\Animations\\AnimationManager.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\PlayerScripts\\Animations\\AnimationManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T14:05:51.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "CurrencyQuantityManager.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\PlayerScripts\\CurrencyManager\\CurrencyQuantityManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\PlayerScripts\\CurrencyManager\\CurrencyQuantityManager.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\PlayerScripts\\CurrencyManager\\CurrencyQuantityManager.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\PlayerScripts\\CurrencyManager\\CurrencyQuantityManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T19:27:30.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "PlayerSoundFXManager.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\PlayerScripts\\PlayerSoundManager\\PlayerSoundFXManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\PlayerScripts\\PlayerSoundManager\\PlayerSoundFXManager.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\PlayerScripts\\PlayerSoundManager\\PlayerSoundFXManager.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\PlayerScripts\\PlayerSoundManager\\PlayerSoundFXManager.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswCYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T18:08:18.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "MovementManager.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\PlayerScripts\\Movement\\MovementManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\PlayerScripts\\Movement\\MovementManager.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\PlayerScripts\\Movement\\MovementManager.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\PlayerScripts\\Movement\\MovementManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T18:46:50.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\PlayerScripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\PlayerScripts\\Player.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\PlayerScripts\\Player.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\PlayerScripts\\Player.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAxwDwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T18:40:59.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "PlayerManager.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\PlayerScripts\\PlayerManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\PlayerScripts\\PlayerManager.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\PlayerScripts\\PlayerManager.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\PlayerScripts\\PlayerManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T19:21:19.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "NpcTalk.cs",
+              "DocumentMoniker": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\InteractSystem\\InteractableObjects\\Npcs\\NpcTalk.cs",
+              "RelativeDocumentMoniker": "Assets\\_bScripts\\InteractSystem\\InteractableObjects\\Npcs\\NpcTalk.cs",
+              "ToolTip": "C:\\CodingProjects\\Unity\\UnityGame - Copy\\Assets\\_bScripts\\InteractSystem\\InteractableObjects\\Npcs\\NpcTalk.cs",
+              "RelativeToolTip": "Assets\\_bScripts\\InteractSystem\\InteractableObjects\\Npcs\\NpcTalk.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAqwGMAAACsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T18:39:02.03Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

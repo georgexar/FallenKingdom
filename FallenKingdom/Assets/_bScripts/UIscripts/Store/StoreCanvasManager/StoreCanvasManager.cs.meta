@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a9db867fe9016be408b010973f7bb66d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - content: {instanceID: 0}
+  - itemPrefab: {instanceID: 0}
+  - blueGem: {fileID: 21300000, guid: a5eec7e510615984bafff4d76799e151, type: 3}
+  - purpleGem: {fileID: 21300000, guid: 2160512c86fbf3248830973e4a3573af, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
