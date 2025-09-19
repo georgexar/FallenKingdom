@@ -42,6 +42,7 @@
 | Block          | Right Mouse |
 | Use Spell 1/2/3| Q / E / R   |
 | Open Inventory | Tab         |
+| Collect        | F           |
 | Pause          | Escape      |
 
 *(Controls can be remapped from the Options menu)* 
